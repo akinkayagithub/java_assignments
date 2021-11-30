@@ -2,7 +2,6 @@ package assignment_solutions;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class Homework11 {
     //////////////////////TASK-1 Method/////////////////////////
