@@ -4,9 +4,8 @@ import java.util.Arrays;
 
 public class Recap02 {
     public static void main(String[] args) {
-
         //////////////////////TASK-1/////////////////////////
-        System.out.println("\n----------Task-1----------\n");
+        System.out.println("\n----------TASK-1----------\n");
         int[] numbers1 = {89, 0, 23, 0, 12, 0, 15, 34, 0, 7};
 
         System.out.println(numbers1[3]);
@@ -16,8 +15,7 @@ public class Recap02 {
 
 
         //////////////////////TASK-2/////////////////////////
-        System.out.println("\n----------Task-2----------\n");
-
+        System.out.println("\n----------TASK-2----------\n");
         String[] arr2 = new String[5];
         arr2[1] = "abc";
         arr2[4] = "xyz";
@@ -29,8 +27,7 @@ public class Recap02 {
 
 
         //////////////////////TASK-3/////////////////////////
-        System.out.println("\n----------Task-3----------\n");
-
+        System.out.println("\n----------TASK-3----------\n");
         int[] numbers3 = {23, -34, -56, 0, 89, 100};
         System.out.println(Arrays.toString(numbers3));
 
@@ -39,8 +36,7 @@ public class Recap02 {
 
 
         //////////////////////TASK-4/////////////////////////
-        System.out.println("\n----------Task-4----------\n");
-
+        System.out.println("\n----------TASK-4----------\n");
         String[] countries = {"Germany", "Argentina", "Ukraine", "Romania"};
         System.out.println(Arrays.toString(countries));
 
@@ -49,8 +45,7 @@ public class Recap02 {
 
 
         //////////////////////TASK-5/////////////////////////
-        System.out.println("\n----------Task-5----------\n");
-
+        System.out.println("\n----------TASK-5----------\n");
         String[] cartoonDogs = {"Scooby Doo", "Snoopy", "Blue", "XPluto", "Dino", "Sparky"};
         System.out.println(Arrays.toString(cartoonDogs));
 
@@ -59,8 +54,7 @@ public class Recap02 {
 
 
         //////////////////////TASK-6/////////////////////////
-        System.out.println("\n----------Task-6----------\n");
-
+        System.out.println("\n----------TASK-6----------\n");
         String[] cartoonCats = {"Garfield", "Tom", "Sylvester", "Azrael"};
 
         Arrays.sort(cartoonCats);
@@ -71,8 +65,7 @@ public class Recap02 {
 
 
         //////////////////////TASK-7/////////////////////////
-        System.out.println("\n----------Task-7----------\n");
-
+        System.out.println("\n----------TASK-7----------\n");
         double[] numbers7 = {10.5, 20.75, 70, 80, 15.75};
         System.out.println(Arrays.toString(numbers7));
 
@@ -82,8 +75,7 @@ public class Recap02 {
 
 
         //////////////////////TASK-8/////////////////////////
-        System.out.println("\n----------Task-8----------\n");
-
+        System.out.println("\n----------TASK-8----------\n");
         char[] characters = {'A', 'b', 'G', 'H', '7', '5', '&', '*', 'e', '@', '4'};
 
         System.out.println(Arrays.toString(characters));
@@ -111,8 +103,7 @@ public class Recap02 {
 
 
         //////////////////////TASK-9/////////////////////////
-        System.out.println("\n----------Task-9----------\n");
-
+        System.out.println("\n----------TASK-9----------\n");
         String[] objects = {"Pen", "notebook", "Book", "paper", "bag", "pencil", "Ruler"};
 
         System.out.println(Arrays.toString(objects));
@@ -136,8 +127,7 @@ public class Recap02 {
 
 
         //////////////////////TASK-10/////////////////////////
-        System.out.println("\n----------Task-10----------\n");
-
+        System.out.println("\n----------TASK-10----------\n");
         int[] numbers10 = {3, 5, 7, 10, 0, 20, 17, 10, 23, 56, 78};
 
         System.out.println(Arrays.toString(numbers10));
@@ -158,8 +148,7 @@ public class Recap02 {
 
 
         //////////////////////TASK-11/////////////////////////
-        System.out.println("\n----------Task-11----------\n");
-
+        System.out.println("\n----------TASK-11----------\n");
         int[] firstArr = {5, 8, 13, 1, 2};
         int[] secondArr = {9, 3, 67, 1, 0};
         int[] thirdArr = new int[5];

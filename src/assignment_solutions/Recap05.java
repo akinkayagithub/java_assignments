@@ -93,7 +93,6 @@ public class Recap05 {
      */
 
     public static void main(String[] args) {
-
         System.out.println("\n------------TASK-1------------\n");
         System.out.println(noDigit("123Tech456Global149")); //TechGlobal
 
